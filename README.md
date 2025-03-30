@@ -1,9 +1,19 @@
 # Excel Processor
 
 ## Overview
-This project provides a Python script and an executable file (`ExcelProcessor.exe`) for processing Excel files to generate excavation permits and calculate required PVC quantities for an ODN FTTH project.
+This Python-based tool allows you to filter and save data from Excel files (.xls and .xlsx formats) by specifying a column to filter. It reads an input Excel file, filters data based on a specific column, and generates separate Excel files for each unique value in that column.
+
+## Features
+- **Load Excel Files**: Load Excel files and process them in the specified format (`.xls` or `.xlsx`).
+- **Filter by Column**: Filter the data based on unique values from a column of your choice.
+- **Save Filtered Files**: Save the filtered data to new Excel files, named based on the filter column values.
+- **Supports `.xls` and `.xlsx` Formats**: Choose between `.xls` or `.xlsx` output files.
+
+
 
 ![image](https://github.com/user-attachments/assets/d82b35c2-2b9c-47c3-9de4-e9ec0983089a)
+
+
 
 
 ## Requirements
