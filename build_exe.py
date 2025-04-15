@@ -17,12 +17,14 @@ except Exception as e:
 
 # Build command
 PyInstaller.__main__.run([
-    'excel_processor.py',
+   'excel_processor.py',
     '--onefile',
     '--windowed',
     '--clean',
     '--name=ExcelProcessor',
-    f'--icon={icon_file}',
-    '--add-data=icon.png;.',
+    '--icon=icon.ico',
+    '--add-data=icon.ico;.',
+    '--hidden-import=pyexcel_xls',
+    '--hidden-import=pyexcel_xlsx',
     '--noconfirm'
 ])

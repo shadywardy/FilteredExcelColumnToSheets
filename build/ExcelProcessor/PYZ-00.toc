@@ -3832,6 +3832,30 @@
    'D:\\Django '
    'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pyexcel_io\\writer.py',
    'PYMODULE'),
+  ('pyexcel_xls',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pyexcel_xls\\__init__.py',
+   'PYMODULE'),
+  ('pyexcel_xls.xlsr',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pyexcel_xls\\xlsr.py',
+   'PYMODULE'),
+  ('pyexcel_xls.xlsw',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pyexcel_xls\\xlsw.py',
+   'PYMODULE'),
+  ('pyexcel_xlsx',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pyexcel_xlsx\\__init__.py',
+   'PYMODULE'),
+  ('pyexcel_xlsx.xlsxr',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pyexcel_xlsx\\xlsxr.py',
+   'PYMODULE'),
+  ('pyexcel_xlsx.xlsxw',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pyexcel_xlsx\\xlsxw.py',
+   'PYMODULE'),
   ('pytz',
    'D:\\Django '
    'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\pytz\\__init__.py',
@@ -4717,6 +4741,82 @@
   ('xlrd.xldate',
    'D:\\Django '
    'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlrd\\xldate.py',
+   'PYMODULE'),
+  ('xlwt',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\__init__.py',
+   'PYMODULE'),
+  ('xlwt.BIFFRecords',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\BIFFRecords.py',
+   'PYMODULE'),
+  ('xlwt.Bitmap',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Bitmap.py',
+   'PYMODULE'),
+  ('xlwt.Cell',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Cell.py',
+   'PYMODULE'),
+  ('xlwt.Column',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Column.py',
+   'PYMODULE'),
+  ('xlwt.CompoundDoc',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\CompoundDoc.py',
+   'PYMODULE'),
+  ('xlwt.ExcelFormula',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\ExcelFormula.py',
+   'PYMODULE'),
+  ('xlwt.ExcelFormulaLexer',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\ExcelFormulaLexer.py',
+   'PYMODULE'),
+  ('xlwt.ExcelFormulaParser',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\ExcelFormulaParser.py',
+   'PYMODULE'),
+  ('xlwt.ExcelMagic',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\ExcelMagic.py',
+   'PYMODULE'),
+  ('xlwt.Formatting',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Formatting.py',
+   'PYMODULE'),
+  ('xlwt.Row',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Row.py',
+   'PYMODULE'),
+  ('xlwt.Style',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Style.py',
+   'PYMODULE'),
+  ('xlwt.UnicodeUtils',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\UnicodeUtils.py',
+   'PYMODULE'),
+  ('xlwt.Utils',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Utils.py',
+   'PYMODULE'),
+  ('xlwt.Workbook',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Workbook.py',
+   'PYMODULE'),
+  ('xlwt.Worksheet',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\Worksheet.py',
+   'PYMODULE'),
+  ('xlwt.antlr',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\antlr.py',
+   'PYMODULE'),
+  ('xlwt.compat',
+   'D:\\Django '
+   'Training\\FilteredExcelColumnToSheets\\venv\\lib\\site-packages\\xlwt\\compat.py',
    'PYMODULE'),
   ('xml',
    'C:\\Users\\nb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
